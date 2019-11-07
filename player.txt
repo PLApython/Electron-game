@@ -1,0 +1,8 @@
+cass.MainCharacter("Testiboi", "You exist only for testing purposes",
+                    0, 0, 0, 0, 1, 1, 1, 1, 50, 2, .25, 1,
+                    1, 1, 1, "the first electron warrior", 50,
+                    [AI.lightning_cannon,
+                     AI.first_gun],
+                    "Normal",
+                    {"Left": 0, "Right": 1}
+                   )
